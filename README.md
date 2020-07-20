@@ -1,3 +1,4 @@
+![Alt text](./zollinger-logo.png?raw=true "Title")
 ### I'm Cameron Zollinger 🤘
 Thanks for checking out my profile.
 
