@@ -1,6 +1,12 @@
 # I'm Cameron Zollinger 🤘
-## Frontend Developer & Designer
 
-LinkedIn: https://www.linkedin.com/in/cameron-zollinger/
+> #### ***Front End Developer & Designer***
 
-Portfolio: https://zollinger.tech
+## Portfolio
+
+[https://zolly.dev](https://zolly.dev)
+
+## Linkedin
+
+[https://www.linkedin.com/in/cameron-zollinger/](https://www.linkedin.com/in/cameron-zollinger/)
+
